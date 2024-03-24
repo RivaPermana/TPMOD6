@@ -1,0 +1,5 @@
+D:\VS\tpmodul6_1302223010\tpmodul6_1302223010\obj\Debug\net8.0\tpmodul6_1302223010.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\tpmodul6_1302223010\tpmodul6_1302223010\obj\Debug\net8.0\tpmodul6_1302223010.AssemblyInfoInputs.cache
+D:\VS\tpmodul6_1302223010\tpmodul6_1302223010\obj\Debug\net8.0\tpmodul6_1302223010.AssemblyInfo.cs
+D:\VS\tpmodul6_1302223010\tpmodul6_1302223010\obj\Debug\net8.0\tpmodul6_1302223010.csproj.CoreCompileInputs.cache
+D:\VS\tpmodul6_1302223010\tpmodul6_1302223010\obj\Debug\net8.0\tpmodul6_1302223010.sourcelink.json
