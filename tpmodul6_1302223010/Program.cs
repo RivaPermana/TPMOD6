@@ -16,5 +16,16 @@ public class Program
                 video.IncreasePlayCount(1);
             }
         }
+        catch (Exception test)
+        {
+            Console.WriteLine("Error " +test.Message);
+        }
+        finally
+        {
+            if (video != null)
+            {
+                video.PrintVideoDetails();
+            }
+        }
     }
 }

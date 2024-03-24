@@ -3,3 +3,13 @@ D:\VS\tpmodul6_1302223010\tpmodul6_1302223010\obj\Debug\net8.0\tpmodul6_13022230
 D:\VS\tpmodul6_1302223010\tpmodul6_1302223010\obj\Debug\net8.0\tpmodul6_1302223010.AssemblyInfo.cs
 D:\VS\tpmodul6_1302223010\tpmodul6_1302223010\obj\Debug\net8.0\tpmodul6_1302223010.csproj.CoreCompileInputs.cache
 D:\VS\tpmodul6_1302223010\tpmodul6_1302223010\obj\Debug\net8.0\tpmodul6_1302223010.sourcelink.json
+D:\VS\tpmodul6_1302223010\tpmodul6_1302223010\bin\Debug\net8.0\tpmodul6_1302223010.exe
+D:\VS\tpmodul6_1302223010\tpmodul6_1302223010\bin\Debug\net8.0\tpmodul6_1302223010.deps.json
+D:\VS\tpmodul6_1302223010\tpmodul6_1302223010\bin\Debug\net8.0\tpmodul6_1302223010.runtimeconfig.json
+D:\VS\tpmodul6_1302223010\tpmodul6_1302223010\bin\Debug\net8.0\tpmodul6_1302223010.dll
+D:\VS\tpmodul6_1302223010\tpmodul6_1302223010\bin\Debug\net8.0\tpmodul6_1302223010.pdb
+D:\VS\tpmodul6_1302223010\tpmodul6_1302223010\obj\Debug\net8.0\tpmodul6_1302223010.dll
+D:\VS\tpmodul6_1302223010\tpmodul6_1302223010\obj\Debug\net8.0\refint\tpmodul6_1302223010.dll
+D:\VS\tpmodul6_1302223010\tpmodul6_1302223010\obj\Debug\net8.0\tpmodul6_1302223010.pdb
+D:\VS\tpmodul6_1302223010\tpmodul6_1302223010\obj\Debug\net8.0\tpmodul6_1302223010.genruntimeconfig.cache
+D:\VS\tpmodul6_1302223010\tpmodul6_1302223010\obj\Debug\net8.0\ref\tpmodul6_1302223010.dll
